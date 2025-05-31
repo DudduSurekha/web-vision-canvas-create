@@ -9,7 +9,7 @@ const HeroSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl md:text-6xl">
-            <span className="text-blue-600">Gene Expression Explorer</span>
+            <span className="text-blue-600">GeneScope</span>
           </h1>
           <p className="mt-3 max-w-4xl mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl">
             Use NCBI's public GEO repository to analyze biomedical data. Select microarray or RNA-seq datasets 

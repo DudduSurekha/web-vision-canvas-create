@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Footer = () => {
@@ -7,7 +6,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-lg font-bold mb-4">Gene Expression Explorer</h3>
+            <h3 className="text-lg font-bold mb-4">GeneScope</h3>
             <p className="text-gray-300 mb-4">
               A comprehensive platform for analyzing biomedical data from NCBI's GEO repository. 
               Leveraging Python libraries like Pandas and SciPy for finding differentially expressed genes 
@@ -31,7 +30,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2024 Gene Expression Explorer. Empowering biomedical research through data analysis.</p>
+          <p>&copy; 2024 GeneScope. Empowering biomedical research through data analysis.</p>
         </div>
       </div>
     </footer>
